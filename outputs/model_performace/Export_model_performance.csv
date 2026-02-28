@@ -1,0 +1,6 @@
+model,rmse
+Gradient Boosted Trees,3.53
+Random Forest Tuned,4.92
+Linear Regression,12.56
+Decision Tree,14.97
+Random Forest,4.52
